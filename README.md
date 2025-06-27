@@ -1,3 +1,2 @@
-   Iphone-Sales-Analysis
    This project analyzes the performance of Apple iPhone products using a public dataset that includes product names, pricing, star ratings, review counts, and more. We focus on    identifying the top-rated iPhones and exploring trends in customer feedback. Includes data cleaning, visualization, and extracting actionable insights using Python libraries     like pandas, matplotlib, and seaborn.
    
